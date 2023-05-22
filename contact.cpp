@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <map>
 #include <list>
+#include <vector> //qt 
 using namespace std;
 class member
 {
