@@ -14,3 +14,6 @@ welcome to my practical ap project
     cout << "11 -> to Edit key value" << endl;
     cout << "12 -> to change fav list order" << endl;
     cout << "-1 -> FINISH" << endl;
+
+
+i have to make it with qt as soon as possible
